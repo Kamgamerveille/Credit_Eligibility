@@ -6,7 +6,6 @@
 #     packages=find_packages(),
 #     version='0.1.0',
 #     description='Credit Risk Model code structuring',
-#     author='Swapnil Kangralkar',
 #     license='',
 # )
 
